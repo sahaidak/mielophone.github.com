@@ -471,6 +471,11 @@
 			<cover></cover>
 			<url>http://nullwave.ru:8000/jazz</url>
 		</station>
+		<station id="jz004">
+			<title>Raiolla</title>
+			<cover></cover>
+			<url>http://air.radiolla.com/radiolla.192k.mp3</url>
+		</station>
 	</group>
 	<group id="misc" title="Misc">
 		<station id="g1298">
